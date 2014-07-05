@@ -25,3 +25,5 @@ This simple program runs a short Ackermann test. More information about Ackerman
 - For *nix users:
 
 		Well, simply run "make" and start "ack.sh"!
+		
+Please share your results, just-for-fun :-)
